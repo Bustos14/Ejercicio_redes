@@ -1,5 +1,5 @@
 # Ejercicio_redes
-###1.Tres subredes
+###1.Tres subredes  
 En este primer apartado, que en el archivo está señalado con rojo, podemos ver
 que tal y como nos pide el enunciado, hemos creado tres subredes, una que
 soporta 100 host, otra que soporta 30 y por último una para 6 host, cada una
